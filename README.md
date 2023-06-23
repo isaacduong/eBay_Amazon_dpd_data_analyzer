@@ -9,9 +9,7 @@ Next, I delved into exploratory data analysis (EDA) techniques to gain a better 
 
 One of the highlights of the project was the creation of captivating visualizations. Leveraging powerful data visualization libraries such as Matplotlib, Seaborn, and Plotly, I developed a range of visually appealing charts, graphs, and interactive plots. These visualizations helped to communicate complex insights in a clear and intuitive manner.
 
-For instance, I created bar charts to showcase the sales performance of different product categories, line plots to illustrate sales trends over time, and scatter plots to identify potential correlations between variables like price and customer ratings. Additionally, I utilized geospatial visualizations to depict sales distribution across different regions.
-
-In addition to traditional 2D visualizations, I also explored the realm of 3D visualizations and interactive dashboards using libraries like Plotly. These dynamic visual representations provided an immersive and interactive experience, enabling users to explore the data from various perspectives.
+For instance, I created bar charts to showcase the sales performance of different product categories, line plots to illustrate sales trends over time, and scatter plots to identify potential correlations between variables like price and customer ratings. Additionally, I utilized geospatial visualizations to depict sales distribution across different regions. These visual representations enable users to explore the data from various perspectives.
 
 Furthermore, I implemented advanced techniques such as clustering analysis to segment customers based on their purchasing behavior and created visualizations to showcase these distinct customer segments. This information can be valuable for targeted marketing and personalized recommendations.
 
