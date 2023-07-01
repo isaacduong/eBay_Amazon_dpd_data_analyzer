@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AmazonEnvelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="amzn-envelope.xsd">
+<Header>
+	<DocumentVersion>1.00</DocumentVersion>
+</Header>
+<MessageType>Mfn-Sku-Return-Attributes-Report</MessageType>
+<Message></Message>
+</AmazonEnvelope>
